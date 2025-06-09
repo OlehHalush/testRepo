@@ -4,6 +4,7 @@
 *.class
 *allure*/
 *test-results/
+*.idea/
 .idea/
 .idea/workspace.xml
 .idea/*
